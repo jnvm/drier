@@ -1,6 +1,6 @@
 {
   "name": "drier",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eliminate repetition or stutter in assignments",
   "main": "drier.js",
   "scripts": {

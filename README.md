@@ -26,10 +26,10 @@ let {thing, aThing, thisThing, thatThing, theOtherThing} = require('drier')(oper
 
 ## How It Works
 
-`drier` is a function which invokes its input function with a string of each variable name to the left of the destructuring assignment,
-removing the need to repeat them, and maybe encourage more meaningful names.
+`drier` is a function which invokes its input function with a string of each variable name on the left of the destructuring assignment,
+removing the need to repeat them, and maybe encouraging more meaningful names.
 
-You could alternatively describe it as an iterator across variable names.
+Or you could describe it as an iterator across variable names.
 
 ## More Examples
 ```javascript
