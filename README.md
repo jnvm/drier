@@ -19,7 +19,8 @@ let theOtherThing = operator('theOtherThing')
 Be offended no more: just make it `drier`!
 
 ```javascript
-let {thing, aThing, thisThing, thatThing, theOtherThing} = require('drier')(operator)
+let {thing, aThing, thisThing,
+	thatThing, theOtherThing} = require('drier')(operator)
 ```
 
 ...and through the magic of [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) and [proxies](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/get), never stutter variables in code again!
