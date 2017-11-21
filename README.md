@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/SLOC-1-brightgreen.svg)](https://github.com/jnvm/drier/blob/master/drier.js#L1)
+[![David](https://img.shields.io/david/jnvm/drier.svg?maxAge=360000)]()
 # Drier
 
 Does repetition in code bother you to what others call an unreasonable degree?
@@ -40,4 +42,3 @@ const {sqlA, sqlB, sqlC, sqlD} = drier(s => fs.readFileSync(`${__dirname}/${s}.s
 #### see also
 * [dryer vs drier](https://writingexplained.org/drier-vs-dryer-difference)
 * [`new Proxy()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
-* 
