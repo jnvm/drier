@@ -1,0 +1,35 @@
+{
+  "name": "drier",
+  "version": "1.0.0",
+  "description": "eliminate repetition or stutter in assignments",
+  "main": "drier.js",
+  "scripts": {
+    "test": "node drier.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnvm/drier.git"
+  },
+  "keywords": [
+    "dry",
+    "don't",
+    "repeat",
+    "yourself",
+    "dryness",
+    "stutter",
+    "code",
+    "style",
+    "proxy",
+    "destructure",
+    "destructuring",
+    "terse",
+    "brief",
+    "simplify"
+  ],
+  "author": "jnvm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnvm/drier/issues"
+  },
+  "homepage": "https://github.com/jnvm/drier#readme"
+}
